@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <!-- Display -->
+    <string name="display_placeholder">0</string>
+
+    <!-- Number Buttons -->
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+
+    <!-- Operation Buttons -->
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnMultiply">×</string>
+    <string name="btnDivide">÷</string>
+    <string name="btnEquals">=</string>
+    <string name="btnDecimal">.</string>
+    <string name="btnClear">C</string>
+    <string name="btnPercent">%</string>
+    <string name="btnSqrt">√</string>
+    <string name="btnSign">±</string>
+</resources>
