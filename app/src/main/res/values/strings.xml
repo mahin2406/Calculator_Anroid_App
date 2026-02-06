@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculator</string>
-
-    <!-- Display -->
     <string name="display_placeholder">0</string>
 
-    <!-- Number Buttons -->
-    <string name="btn0">0</string>
-    <string name="btn1">1</string>
-    <string name="btn2">2</string>
-    <string name="btn3">3</string>
-    <string name="btn4">4</string>
-    <string name="btn5">5</string>
-    <string name="btn6">6</string>
-    <string name="btn7">7</string>
-    <string name="btn8">8</string>
-    <string name="btn9">9</string>
+    <string-array name="button_text">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>√</item>
+        <item>C</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>÷</item>
+        <item>%</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>×</item>
+        <item>-</item>
+        <item>±</item>
+        <item>0</item>
+        <item>.</item>
+        <item>+</item>
+        <item>=</item>
+    </string-array>
 
-    <!-- Operation Buttons -->
-    <string name="btnPlus">+</string>
-    <string name="btnMinus">-</string>
-    <string name="btnMultiply">×</string>
-    <string name="btnDivide">÷</string>
-    <string name="btnEquals">=</string>
-    <string name="btnDecimal">.</string>
-    <string name="btnClear">C</string>
-    <string name="btnPercent">%</string>
-    <string name="btnSqrt">√</string>
-    <string name="btnSign">±</string>
+    <string-array name="button_tags">
+        <item>btn7</item>
+        <item>btn8</item>
+        <item>btn9</item>
+        <item>btnSqrt</item>
+        <item>btnClear</item>
+        <item>btn4</item>
+        <item>btn5</item>
+        <item>btn6</item>
+        <item>btnDivide</item>
+        <item>btnPercent</item>
+        <item>btn1</item>
+        <item>btn2</item>
+        <item>btn3</item>
+        <item>btnMultiply</item>
+        <item>btnMinus</item>
+        <item>btnSign</item>
+        <item>btn0</item>
+        <item>btnDecimal</item>
+        <item>btnPlus</item>
+        <item>btnEquals</item>
+    </string-array>
 </resources>
